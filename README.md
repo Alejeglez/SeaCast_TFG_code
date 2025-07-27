@@ -10,7 +10,7 @@ Este repositorio parte del proyecto original [SeaCast](https://github.com/deinal
 ### 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/Alejeglez/SeaCast_TFG.git
+git clone https://github.com/Alejeglez/SeaCast_TFG_code.git
 ```
 ### 2. Crear entorno:
 
